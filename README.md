@@ -15,7 +15,7 @@ Don't worry if you get stuck. This is mostly a learning exercise. I'll provide m
 
 * Instructions [here](https://github.com/iobio/iobio-gru-backend)
 
-# Extra credit - Try building gene.iobio to use your custom
+# Extra credit - Try building gene.iobio to use your custom backend
 
 This one is tricky because I don't think gene.iobio works without TLS anymore, so you'll need to set up DNS records and some sort of a reverse proxy on your VM. If you want to give this a shot:
 
